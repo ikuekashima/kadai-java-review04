@@ -1,7 +1,7 @@
 package animal;
 
 public abstract class Animal {
-    public abstract void barking();
+    public abstract void Identifier();
 //名前を格納するフィールドと年齢を格納するフィールドを定義
     //変数名は自由で、カプセル化を行う
 

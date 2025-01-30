@@ -1,7 +1,5 @@
 package animal;
 
-import jp.co.kiramex.polymorphism.Animal;
-
 public class Review04 {
     public static void main(String[] args) {
         Human human1 = new Human("田中太郎" , 25,"電車");

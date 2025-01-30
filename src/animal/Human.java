@@ -1,6 +1,5 @@
 package animal;
 
-import jp.co.kiramex.polymorphism.Animal;
 //ヒューマンクラスはアニマルクラスを継承
 public class Human extends Animal implements Thinkable {
 
@@ -20,7 +19,7 @@ public class Human extends Animal implements Thinkable {
     }
 
     @Override
-    public void barking() {
+    public void Identifier() {
         // TODO 自動生成されたメソッド・スタブ
 
 
